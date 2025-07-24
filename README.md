@@ -58,5 +58,6 @@ Model: XGBoost Regressor
 
 🔗 Connect with Me
 Let’s connect on LinkedIn — I’m open to collaboration, internships, and feedback!
-
+AUTHOR :
+SHAURYA TRIPATHI
 
